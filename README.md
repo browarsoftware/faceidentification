@@ -2,6 +2,7 @@
 
 Source code for real time faces identification with USB camera.
 
+![image](image.jpg)
 ![qr](qr.png)
 
 Hot to run:
