@@ -1,6 +1,6 @@
-# Face identification with deep nerual network
+# Face identification with deep neural network
 
-Source code for real time face idientification with USB camera.
+Source code for real time faces identification with USB camera.
 
 Hot to run:
 - Run acquire_data.py to gather dataset. Press "s" to save faces.
@@ -12,11 +12,10 @@ Requires:
 - keras-vggface (tested on 0.6)
 - mtcnn (tested on 0.1.1)
 
-Metodologia oparta jest na pracach :
+The methodology is based on the papers:
 
-Omkar M. Parkhi, Andrea Vedaldi and Andrew Zisserman. Deep Face Recognition. In Xianghua Xie, Mark W. Jones, and Gary K. L. Tam, editors, Proceedings of the British Machine Vision Conference (BMVC), pages 41.1-41.12. BMVA Press, September 2015. [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
-
-Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi, Andrew Zisserman, VGGFace2: A dataset for recognising faces across pose and age arXiv:1710.08092 [pdf](https://arxiv.org/abs/1710.08092)
+- Omkar M. Parkhi, Andrea Vedaldi and Andrew Zisserman. Deep Face Recognition. In Xianghua Xie, Mark W. Jones, and Gary K. L. Tam, editors, Proceedings of the British Machine Vision Conference (BMVC), pages 41.1-41.12. BMVA Press, September 2015. [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+- Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi, Andrew Zisserman, VGGFace2: A dataset for recognising faces across pose and age arXiv:1710.08092 [pdf](https://arxiv.org/abs/1710.08092)
 
 Good tutorials for GPU Tensorflow instalation:
 
