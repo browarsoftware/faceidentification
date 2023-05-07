@@ -2,6 +2,8 @@
 
 Source code for real time faces identification with USB camera.
 
+![qr](qr.png)
+
 Hot to run:
 - Run acquire_data.py to gather dataset. Press "s" to save faces.
 - Run generate_embedding.py to create embedding.txt file. Inside the file in the second column you may change numbers to names of persons who you want to identify.
